@@ -1,0 +1,30 @@
+table {
+    width: 100%;
+}
+
+.table__cell{
+    padding: 5px;
+}
+.table__cell--name {
+    width: 80%;
+}
+
+.table__cell--country {
+    width: 20%;
+}
+
+.table__button {
+    color: black;
+    text-decoration: underline;
+}
+.table__cell--button{
+    width: 4ch;
+    white-space: nowrap;
+}
+.table__cell--id{
+    width: 6ch;
+    white-space: nowrap;
+}
+.table__head{
+    background-color: #fff;
+}

@@ -1,0 +1,1 @@
+export type services = "api" | "logger";
