@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.9239e560.css",
-    "main.js": "/static/js/main.dba0c601.js",
-    "static/js/865.dd251043.chunk.js": "/static/js/865.dd251043.chunk.js",
-    "static/js/434.fc4b26b9.chunk.js": "/static/js/434.fc4b26b9.chunk.js",
-    "static/js/819.63ec5914.chunk.js": "/static/js/819.63ec5914.chunk.js",
-    "static/js/509.56cf7a7f.chunk.js": "/static/js/509.56cf7a7f.chunk.js",
-    "static/js/19.9bdab740.chunk.js": "/static/js/19.9bdab740.chunk.js",
-    "index.html": "/index.html",
-    "main.9239e560.css.map": "/static/css/main.9239e560.css.map",
-    "main.dba0c601.js.map": "/static/js/main.dba0c601.js.map",
-    "865.dd251043.chunk.js.map": "/static/js/865.dd251043.chunk.js.map",
-    "434.fc4b26b9.chunk.js.map": "/static/js/434.fc4b26b9.chunk.js.map",
-    "819.63ec5914.chunk.js.map": "/static/js/819.63ec5914.chunk.js.map"
+    "main.css": "https://zulcom.github.io/forjimmy/static/css/main.9239e560.css",
+    "main.js": "https://zulcom.github.io/forjimmy/static/js/main.961002df.js",
+    "static/js/865.dd251043.chunk.js": "https://zulcom.github.io/forjimmy/static/js/865.dd251043.chunk.js",
+    "static/js/434.fc4b26b9.chunk.js": "https://zulcom.github.io/forjimmy/static/js/434.fc4b26b9.chunk.js",
+    "static/js/819.63ec5914.chunk.js": "https://zulcom.github.io/forjimmy/static/js/819.63ec5914.chunk.js",
+    "static/js/509.56cf7a7f.chunk.js": "https://zulcom.github.io/forjimmy/static/js/509.56cf7a7f.chunk.js",
+    "static/js/19.9bdab740.chunk.js": "https://zulcom.github.io/forjimmy/static/js/19.9bdab740.chunk.js",
+    "index.html": "https://zulcom.github.io/forjimmy/index.html",
+    "main.9239e560.css.map": "https://zulcom.github.io/forjimmy/static/css/main.9239e560.css.map",
+    "main.961002df.js.map": "https://zulcom.github.io/forjimmy/static/js/main.961002df.js.map",
+    "865.dd251043.chunk.js.map": "https://zulcom.github.io/forjimmy/static/js/865.dd251043.chunk.js.map",
+    "434.fc4b26b9.chunk.js.map": "https://zulcom.github.io/forjimmy/static/js/434.fc4b26b9.chunk.js.map",
+    "819.63ec5914.chunk.js.map": "https://zulcom.github.io/forjimmy/static/js/819.63ec5914.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9239e560.css",
-    "static/js/main.dba0c601.js"
+    "static/js/main.961002df.js"
   ]
 }
