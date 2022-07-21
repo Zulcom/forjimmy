@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://zulcom.github.io/forjimmy/static/css/main.9239e560.css",
-    "main.js": "https://zulcom.github.io/forjimmy/static/js/main.039d2283.js",
+    "main.js": "https://zulcom.github.io/forjimmy/static/js/main.c8f10171.js",
     "static/js/865.dd251043.chunk.js": "https://zulcom.github.io/forjimmy/static/js/865.dd251043.chunk.js",
     "static/js/434.fc4b26b9.chunk.js": "https://zulcom.github.io/forjimmy/static/js/434.fc4b26b9.chunk.js",
     "static/js/819.63ec5914.chunk.js": "https://zulcom.github.io/forjimmy/static/js/819.63ec5914.chunk.js",
@@ -9,13 +9,13 @@
     "static/js/19.9bdab740.chunk.js": "https://zulcom.github.io/forjimmy/static/js/19.9bdab740.chunk.js",
     "index.html": "https://zulcom.github.io/forjimmy/index.html",
     "main.9239e560.css.map": "https://zulcom.github.io/forjimmy/static/css/main.9239e560.css.map",
-    "main.039d2283.js.map": "https://zulcom.github.io/forjimmy/static/js/main.039d2283.js.map",
+    "main.c8f10171.js.map": "https://zulcom.github.io/forjimmy/static/js/main.c8f10171.js.map",
     "865.dd251043.chunk.js.map": "https://zulcom.github.io/forjimmy/static/js/865.dd251043.chunk.js.map",
     "434.fc4b26b9.chunk.js.map": "https://zulcom.github.io/forjimmy/static/js/434.fc4b26b9.chunk.js.map",
     "819.63ec5914.chunk.js.map": "https://zulcom.github.io/forjimmy/static/js/819.63ec5914.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9239e560.css",
-    "static/js/main.039d2283.js"
+    "static/js/main.c8f10171.js"
   ]
 }
