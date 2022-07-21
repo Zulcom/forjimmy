@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkforjimmy=globalThis.webpackChunkforjimmy||[]).push([[819],{819:(o,s,a)=>{a.r(s),a.d(s,{DEFAULT_PARAMS:()=>h});const h="?format=json"}}]);
+//# sourceMappingURL=819.63ec5914.chunk.js.map

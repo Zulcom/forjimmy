@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/819.63ec5914.chunk.js","mappings":"mJAAO,MAAMA,EAAiB,c","sources":["api/NHTSAVehicleAPI/constants.js"],"sourcesContent":["export const DEFAULT_PARAMS = \"?format=json\""],"names":["DEFAULT_PARAMS"],"sourceRoot":""}
